@@ -1,0 +1,31 @@
+.traductor-container form {
+  width: 70%;
+  margin: 0 auto; }
+  .traductor-container form div {
+    display: block;
+    margin-bottom: 10px; }
+    .traductor-container form div select {
+      background-color: #ffffff;
+      width: 100%;
+      height: 30px; }
+    .traductor-container form div input {
+      width: 100%;
+      height: 70px; }
+
+.btn input {
+  width: 100%;
+  background-color: #558B2F;
+  color: #ffffff;
+  height: 40px;
+  border: none; }
+
+.input-response {
+  width: 70%;
+  margin: 0 auto; }
+  .input-response input {
+    width: 100% !important;
+    border: none;
+    width: 30px;
+    border-bottom: 2px solid #FF6F00; }
+
+/*# sourceMappingURL=app.component.css.map */
